@@ -75,4 +75,4 @@ Contains database-related functions for managing To-Do lists and tasks:
 
 1. **Token Configuration**: Create a `.env` file in the project root directory and add your Telegram bot token:
    ```env
-   BOT_TOKEN=your_telegram_bot_token_here
+   BOT_TOKEN=ENTER YOUR TOKEN HERE
